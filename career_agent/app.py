@@ -3,18 +3,14 @@ import pandas as pd
 from agent import run_agent
 from memory import get_memory
 
-# =========================
 # Page Config
-# =========================
 st.set_page_config(
     page_title="AI Career Coach Agent",
     page_icon="୨୧",
     layout="wide"
 )
 
-# =========================
 # INJECT PINK LACE PORTFOLIO THEME
-# =========================
 def load_css(file_path: str):
     with open(file_path, "r", encoding="utf-8") as f:
         css = f.read()
