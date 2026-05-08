@@ -1,0 +1,57 @@
+job_title,skills,description
+Data Analyst,python sql data visualization วิเคราะห์ข้อมูล excel analytics,analyze and visualize data for business decisions
+Data Scientist,python statistics machine learning ai วิเคราะห์ข้อมูล,data modeling and predictive analytics
+Software Engineer,เขียนโปรแกรม coding python java software development developer เว็บ backend frontend application programming,develop software systems and applications
+UX Designer,figma design user research ออกแบบ ux ui,design user-friendly experiences and interfaces
+Digital Marketer,seo content marketing ads การตลาด social media,manage online marketing campaigns and branding
+Business Analyst,excel data analysis communication วิเคราะห์ธุรกิจ business,analyze business needs and improve processes
+Frontend Developer,html css javascript react เว็บ frontend ui,build responsive web interfaces
+Backend Developer,python nodejs api database backend server,develop backend systems and APIs
+Full Stack Developer,frontend backend react nodejs database,develop full web applications
+AI Engineer,ai deep learning python neural network machine learning,develop artificial intelligence systems
+Cybersecurity Analyst,security network ethical hacking cybersecurity ความปลอดภัย,protect systems from cyber threats
+Network Engineer,network infrastructure cisco server networking,manage computer networks and infrastructure
+Database Administrator,sql database oracle mysql data management,maintain and optimize databases
+Mobile App Developer,flutter kotlin swift mobile app development,develop mobile applications
+Game Developer,unity unreal game programming game design,create and develop games
+Graphic Designer,photoshop illustrator graphic design ออกแบบกราฟิก,create visual and branding materials
+Video Editor,premiere pro after effects video editing ตัดต่อวิดีโอ,edit and produce video content
+Content Creator,social media content creativity content creation,create engaging online content
+Project Manager,management planning leadership communication บริหารโครงการ,manage teams and project timelines
+Product Manager,business strategy product planning leadership,manage product development and strategy
+Financial Analyst,finance accounting excel วิเคราะห์การเงิน,data-driven financial analysis and forecasting
+Accountant,accounting taxation finance บัญชี,manage financial records and taxes
+Human Resource,hr recruitment communication people management,manage recruitment and employee relations
+Teacher,teaching education communication การสอน,educate and support students
+Data Engineer,etl big data spark data pipeline engineering,build and manage data pipelines
+Cloud Engineer,aws azure cloud devops infrastructure,manage cloud infrastructure and deployment
+DevOps Engineer,docker kubernetes ci cd automation,automate software deployment and operations
+Mechanical Engineer,mechanical cad engineering design วิศวกรรม,design and develop mechanical systems
+Electrical Engineer,electrical circuit electronics engineering ไฟฟ้า,develop electrical and electronic systems
+Civil Engineer,construction autocad civil engineering โครงสร้าง,design infrastructure and construction projects
+Architect,architecture autocad 3d design ออกแบบอาคาร,design buildings and structures
+Lawyer,law legal communication contract กฎหมาย,provide legal advice and services
+Doctor,medical healthcare diagnosis patient care แพทย์,treat and diagnose patients
+Nurse,healthcare nursing patient care พยาบาล,assist patient treatment and healthcare
+Pharmacist,pharmacy medicine healthcare เภสัช,manage medicine and pharmaceutical services
+Entrepreneur,business startup leadership creativity ธุรกิจ,build and manage business ventures
+Sales Representative,sales negotiation communication marketing ขายสินค้า,manage customer relationships and sales
+Customer Support,service communication problem solving support,assist customers and solve issues
+Researcher,research analysis academic statistics วิจัย,conduct research and analyze findings
+Translator,language translation communication ภาษา,translate documents and communication
+Photographer,photography editing creativity ถ่ายภาพ,capture and edit professional photos
+CChef,ทำอาหาร cooking food restaurant kitchen bakery menu creative chef culinary,prepare and create food menus
+Event Planner,event management coordination communication จัดงาน,plan and organize events
+Doctor,รักษา ดูแลผู้ป่วย diagnosis medical healthcare doctor,diagnose and treat patients
+Nurse,พยาบาล ดูแลผู้ป่วย healthcare nursing patient care,assist doctors and care for patients
+Pharmacist,เภสัช medicine healthcare drugstore จ่ายยา,manage medicine and pharmacy services
+Accountant,บัญชี การเงิน คิดเลข excel tax finance accounting numbers,manage financial records and taxes
+Translator,แปลภาษา ภาษา การสื่อสาร writing multilingual communication,translate languages and communicate internationally
+Teacher,ครู การสอน ภาษา การสื่อสาร education teaching communication,teach and communicate knowledge
+Financial Analyst,นักวิเคราะห์การเงิน finance statistics excel analytics การเงิน วิเคราะห์ข้อมูล คิดเลข,analyze financial data and trends
+Psychologist,นักจิตวิทยา จิตวิทยา สุขภาพจิต ให้คำปรึกษา emotional support counseling therapy empathy mental health,help people with emotional and mental health problems
+Counselor,ที่ปรึกษา ให้คำปรึกษา emotional support communication psychology empathy mental health,provide emotional guidance and counseling
+Therapist,นักบำบัด therapy counseling mental health emotional care empathy สุขภาพจิต,help people emotionally and mentally
+Psychiatrist,จิตแพทย์ mental health psychiatry counseling emotional disorders,diagnose and treat mental health disorders
+Social Worker,นักสังคมสงเคราะห์ social work emotional support helping people communication empathy,support people with emotional and social problems
+HR Specialist,human resources communication people counseling teamwork,manage employees and workplace wellbeing
