@@ -9,21 +9,24 @@ def rewrite_query(user_input):
 
     # dictionary สำหรับ map keyword
     # เพื่อช่วยขยาย query
+        # ถ้า user สนใจเขียนโปรแกรม
+        # เพิ่ม keyword เกี่ยวกับ software
+
         "เขียนโปรแกรม":
         "coding programming software developer python",
 
-        # ถ้า user สนใจเขียนโปรแกรม
-        # เพิ่ม keyword เกี่ยวกับ software
+        # ถ้า user สนใจทำอาหาร
+        # เพิ่ม keyword ด้าน culinary
         "ทำอาหาร":
         "cooking chef culinary food restaurant",
 
-        # ถ้า user สนใจทำอาหาร
-        # เพิ่ม keyword ด้าน culinary
+        # ถ้า user สนใจวาดรูป
+        # เพิ่ม keyword ด้าน graphic art
         "วาดรูป":
         "design creative graphic art",
 
-        # ถ้า user สนใจวาดรูป
-        # เพิ่ม keyword ด้าน design
+        # ถ้า user ช่วยคน
+        # เพิ่ม keyword ด้าน healthcare
         "ช่วยคน":
         "healthcare counseling social work",
 
@@ -34,7 +37,7 @@ def rewrite_query(user_input):
 
     }
 
- # เพิ่ม keyword ด้าน finance และ analytics
+   # เริ่มต้น query ด้วยข้อความที่ user พิมพ์
     expanded_query = user_input
 
     # loop ตรวจสอบ keyword

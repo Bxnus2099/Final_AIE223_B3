@@ -1,4 +1,4 @@
-# import tools ต่าง ๆ
+# import tools 
 # จากไฟล์ tools.py
 from tools import rewrite_query, rank_jobs, guardrail
 
