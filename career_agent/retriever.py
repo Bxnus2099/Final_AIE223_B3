@@ -6,7 +6,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-# oad Dataset
+# load Dataset
 
 df = pd.read_csv("data/jobs.csv")
 
